@@ -1,6 +1,6 @@
 # Kilometer_Beregner
 Bruger 2 kilometerstande fra 2 datoer og beregner det årlige kilometer forbrug
-<!DOCTYPE html>
+
 <html lang="da">
 <head>
     <meta charset="UTF-8">
