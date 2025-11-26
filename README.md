@@ -1,5 +1,5 @@
-# Kilometer_Beregner
-Bruger 2 kilometerstande fra 2 datoer og beregner det årlige kilometer forbrug
+# Dit årlige kilometerforbrug
+Find ud af hvor mange kilometer du kører i gennemsnit om året
 
 <html lang="da">
 <head>
